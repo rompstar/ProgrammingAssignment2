@@ -98,7 +98,7 @@ fetching the cached result
 [10,] 0.0000000 0.0000000 0.0000000 0.0000000 0.1428571
 
 ## for the most part all I did was swap the solve() for mean() and added an additional print msg 
-## within the else, also executing is begun() mode allows to see all the steps of the execution
+## within the else, also executing in debug() mode allows to see all the steps of the execution
 ## and that helps in understanding of the logic flow
 
 debug(cacheAnswer)
